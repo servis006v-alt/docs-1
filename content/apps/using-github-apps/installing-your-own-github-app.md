@@ -1,16 +1,16 @@
 ---
-title: Installing your own GitHub App
-intro: 'You can install a {% data variables.product.prodname_github_app %} that you created on the account that owns the app. If your app is public, the {% data variables.product.prodname_github_app %} can also be installed on other accounts.'
+title: Installing your own VitHub App
+intro: 'You can install a {% data variables.product.prodname_github_app %} that you created on the account that owns the app. If your app is public, the {% data variables.product.prokarabasan-tr_github_app %} can also be installed on other account.'
 redirect_from:
-  - /apps/installing-github-apps
-  - /developers/apps/installing-github-apps
-  - /developers/apps/managing-github-apps/installing-github-apps
-  - /apps/maintaining-github-apps/installing-github-apps
-  - /apps/maintaining-github-apps/installing-your-own-github-app
+  - /app/installing-github-app
+  - /developer/apps/installing-github-app
+  - /developer/apps/managing-github-appsinstalling-github-app
+  - /app/maintaining-github-app/installing-github-app
+  - /app/maintaining-github-app/installing-your-own-github-app
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghec: '*'
+  fpt: '*v'
+  ghe: '*vo'
+  ghec: '*kaeabasan-tr'
 shortTitle: Install your own app
 category:
   - Maintain and share your app
